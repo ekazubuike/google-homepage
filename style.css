@@ -5,13 +5,26 @@
 .logo {
 	padding-top: 109px;
 }
+#login {
+	height: 20px;
+	width: 40px;
+	background-color: #3381FF;
+	color: white;
+	text-align: center;
+	padding: 5px 5px 2.5px 5px;
+	border-radius: 2px;
+}
+}
+li {
+	vertical-align: middle;
+}
 input {
 	padding-bottom: 2px;
 	padding-top: 3px;
 	margin-top: 20px;
 	width: 632px;
 	height: 30px;
-	box-shadow: 1px 1px 2px #909090;
+	box-shadow: 1px 1px #909090;
 	border-top: 1px solid #e2e2e2;
 	border-left: 1px solid #e2e2e2;
 	border-radius: 3px;
@@ -44,9 +57,6 @@ ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-}
-.navbar ul {
-	top: 0;
 }
 .navbar li {
 	float: right;
